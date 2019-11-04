@@ -1,6 +1,6 @@
 # [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) Dashboard
 
-Simple Flask Boilerplate code suitable for admin dashboards projects. 
+Simple Flask Boilerplate code suitable for admin dashboards projects.
 
 <br />
 
@@ -8,7 +8,7 @@ Simple Flask Boilerplate code suitable for admin dashboards projects.
 
 - SQLite Database
 - Modular design with Blueprints
-- Session Based authentication (via flask_login) - bcrypt hashed passwords 
+- Session Based authentication (via flask_login) - bcrypt hashed passwords
 - flask_migrate
 
 <br />
@@ -17,11 +17,39 @@ Simple Flask Boilerplate code suitable for admin dashboards projects.
 
 @WIP
 
+## How to use it
+
+```bash
+$ # 1. Get the code
+$ git clone https://github.com/app-generator/flask-boilerplate-dashboard.git
+$ cd flask-boilerplate-dashboard
+$ 
+$ # 2. Install requirements
+$ pip install -r requirements.txt
+$
+$ # 3. Set the FLASK_APP environment variable
+$ (Windows) set FLASK_APP=appseed-app.py
+$ (Unix) export FLASK_APP=appseed-app.py
+$ (Powershell) $env:FLASK_APP = ".\appseed-app.py"
+$
+$ # 4. Run the application
+$ flask run --host=0.0.0.0
+$
+$ # 5. Go to http://127.0.0.1:5000/, create an account and log in
+```
+
 <br />
 
 ## Support
 
 24/7 Live [support](appseed.us/support) via [Discord](https://discord.gg/fZC6hup) and eMail **< support@appseed.us >**
+
+<br />
+
+## Credits
+
+- [Gentelella Admin UI](https://github.com/ColorlibHQ/gentelella) - provided by ColorLib
+- [Flask Gentelella](https://github.com/afourmy/flask-gentelella) - author **Antoine Fourmy**
 
 <br />
 
@@ -33,4 +61,3 @@ Simple Flask Boilerplate code suitable for admin dashboards projects.
 
 ---
 [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) - provided by **AppSeed**
-
