@@ -1,6 +1,6 @@
-# [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) Dashboard
+# [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
 
-Simple Flask Boilerplate code suitable for admin dashboards projects.
+A simple Flask Boilerplate suitable for admin dashboards projects.
 
 <br />
 
@@ -12,10 +12,6 @@ Simple Flask Boilerplate code suitable for admin dashboards projects.
 - flask_migrate
 
 <br />
-
-## Project Status
-
-@WIP
 
 ## How to use it
 
@@ -33,7 +29,7 @@ $ (Unix) export FLASK_APP=appseed-app.py
 $ (Powershell) $env:FLASK_APP = ".\appseed-app.py"
 $
 $ # 4. Run the application
-$ flask run --host=0.0.0.0
+$ flask
 $
 $ # 5. Go to http://127.0.0.1:5000/, create an account and log in
 ```
@@ -48,7 +44,7 @@ $ # 5. Go to http://127.0.0.1:5000/, create an account and log in
 
 ## Credits
 
-- [Gentelella Admin UI](https://github.com/ColorlibHQ/gentelella) - provided by ColorLib
+- [Argon Dashboard UI](https://www.creative-tim.com/product/argon-dashboard) - crafted by Creative-Tim agency
 - [Flask Gentelella](https://github.com/afourmy/flask-gentelella) - author **Antoine Fourmy**
 
 <br />
