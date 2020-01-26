@@ -40,7 +40,7 @@ $ (Unix) export FLASK_APP=appseed-app.py
 $ (Powershell) $env:FLASK_APP = ".\appseed-app.py"
 $
 $ # 4. Run the application
-$ flask
+$ flask run
 $
 $ # 5. Go to http://127.0.0.1:5000/, create an account and log in
 ```
