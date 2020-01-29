@@ -1,15 +1,25 @@
-# [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon)
+# [Flask Foilerplate Code](https://appseed.us/boilerplate-code/flask-boilerplate)
 
-A simple Flask Boilerplate suitable for admin dashboards projects.
+Simple UI-ready [Flask boilerplate code](https://appseed.us/boilerplate-code/flask-boilerplate) provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 <br />
 
 ## Features
 
-- SQLite Database
+- UI-Ready, MIT License
+- SQLite Database, ORM
 - Modular design with Blueprints
 - Session Based authentication (via flask_login) - bcrypt hashed passwords
-- flask_migrate
+
+<br />
+
+## [Admin Dashboards](https://appseed.us/admin-dashboards) 
+
+Short-list with coded admin panels that use this [boilerplate code](https://appseed.us/boilerplate-code):
+
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - open-source boilerplate code with [Black Design](https://appseed.us/ui-kit/black-design)
+- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - free boilerplate code with [Material Design](https://appseed.us/ui-kit/material-design)
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - the full index provided by AppSeed.  
 
 <br />
 
@@ -67,4 +77,4 @@ $ # 5. Go to http://127.0.0.1:5000/, create an account and log in
 <br />
 
 ---
-[Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) - provided by **AppSeed**
+[Flask Foilerplate Code](https://appseed.us/boilerplate-code/flask-boilerplate) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
